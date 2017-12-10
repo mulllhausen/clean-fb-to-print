@@ -5,7 +5,7 @@
 // @version      0.1
 // @description  hide fb sidebars which mess up printing to pdf and expand all comments
 // @author       mulllhausen
-// @updateURL
+// @updateURL    https://github.com/mulllhausen/clean-fb-to-print/raw/master/clean-fb-to-print.user.js
 // ==/UserScript==
 
 (function() {
